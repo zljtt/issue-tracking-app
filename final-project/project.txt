@@ -1,0 +1,76 @@
+Project Name : Project 1
+Project Description : Hello project
+Deadline : 1000
+Current Time : 154
+Latest Issue ID : 4
+Latest Sprint ID : 2
+
+To Do : 
+	- Issue 3 : end (document)
+	Reported by : John(Project Owner,Permission:2) at 10
+	Description : end
+	Priority : 2
+	Status : Open
+	Assignees : Empty
+	Comments : Empty
+
+
+In Progress : 
+	Sprint 2 : From 100 to 200
+	Status : Open
+	Issues : 
+		- Issue 4 : ss (document)
+		Reported by : John(Project Owner,Permission:2) at 0
+		Description : - [Migrated from issue 1]
+		Priority : 10
+		Status : In Progress
+		Assignees : [Ben(manager,Permission:1)] 
+		Comments : Empty
+
+
+	Sprint 1 : From 0 to 100
+	Status : Closed
+	Issues : 
+		- Issue 2 : mid (document)
+		Reported by : John(Project Owner,Permission:2) at 2
+		Description : good document
+		Priority : 12
+		Status : Done
+		Assignees : [John(Project Owner,Permission:2)] 
+		Comments : 
+			John(Project Owner,Permission:2) at time 48 : hahah good
+		- Issue 1 : ss (document)
+		Reported by : John(Project Owner,Permission:2) at 0
+		Description : -
+		Priority : 10
+		Status : Overdue
+		Assignees : [Ben(manager,Permission:1)] 
+		Comments : Empty
+
+
+
+Work Done : 
+	- Issue 2 : mid (document)
+	Reported by : John(Project Owner,Permission:2) at 2
+	Description : good document
+	Priority : 12
+	Status : Done
+	Assignees : [John(Project Owner,Permission:2)] 
+	Comments : 
+		John(Project Owner,Permission:2) at time 48 : hahah good
+
+
+Users : 
+	John(Project Owner,Permission:2)
+	Kevin(designer,Permission:0)
+	Ben(manager,Permission:1)
+
+All Changes : 
+	John(Project Owner,Permission:2) at time 33 : Ben is invited to the project.
+	John(Project Owner,Permission:2) at time 25 : Kevin is invited to the project.
+	John(Project Owner,Permission:2) at time 19 : A new sprint (id: 2, time frame from 100 to 200) is created.
+	John(Project Owner,Permission:2) at time 11 : A new sprint (id: 1, time frame from 0 to 100) is created.
+	John(Project Owner,Permission:2) at time 10 : A new issue (end, id:3) is created.
+	John(Project Owner,Permission:2) at time 2 : A new issue (mid, id:2) is created.
+	John(Project Owner,Permission:2) at time 0 : A new issue (start, id:1) is created.
+
